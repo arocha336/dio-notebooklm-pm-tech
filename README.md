@@ -75,3 +75,7 @@ David Rumelhart: Revitalizou o interesse em redes neurais e "conexionismo" na d�
 Sebastian Thrun: Da Universidade de Stanford. Venceu o DARPA Grand Challenge de 2005 com o veículo autônomo Stanley.
 
 As fontes também mencionam filósofos clássicos, economistas, psicólogos, linguistas e engenheiros de computação como disciplinas que contribuíram para os fundamentos da IA, bem como empresas e instituições como IBM, ARPA/DARPA, Udacity, WorldQuant, Google, Facebook, Amazon, Microsoft, Adobe, SMACNA Brasil, CPE Tecnologia, IBAPE, KOGNO e o Instituto de Engenharia com suas diversas divisões técnicas. Filósofos como Kuhn, Heidegger, Feenberg, Vieira Pinto, Jonas e Beck são mencionados no contexto da ética e responsabilidade na era da IA e da sociedade de risco. Platão é mencionado em relação aos conceitos gregos de techne, poeisis e episteme.
+
+## 📚 Curadoria de Fontes
+* [Fonte 1: Guia de IA Aplicada](./fontes/guia-ia.pdf)
+* [Fonte 2: Metodologia Ágil (Artigo)](https://site-da-fonte.com)
