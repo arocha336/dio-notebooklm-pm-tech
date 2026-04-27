@@ -80,5 +80,5 @@ As fontes também mencionam filósofos clássicos, economistas, psicólogos, lin
 * [Fonte 1: Guia de IA Aplicada](./fontes/guia-ia.pdf)
 * [Fonte 2: Metodologia Ágil (Artigo)](https://site-da-fonte.com)
 * [📄 Visualizar Documento de Referência](./fontes/NotebookLM%20Mind%20Map.png)
-* 📄 Visualizar [Documento de Referência](./fontes/Seasons_of_AI.pdf)
+* [📄 Visualizar Documento de Referência](./fontes/Seasons_of_AI.pdf)
 * [📄 Visualizar Documento de Referência](./fontes/The_AI_Evolution.pdf)
